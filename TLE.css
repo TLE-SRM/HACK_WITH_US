@@ -5,7 +5,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-        background-image: url(images/BKRT.png);
+        background-image: url(BKRT.png);
     background-position: center;
     background-size: cover;
     position: relative;
