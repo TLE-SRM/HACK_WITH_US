@@ -1,1 +1,1 @@
-* Covid-19 predictor Using Logistic Regression
+### Covid-19 predictor Using Logistic Regression
